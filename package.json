@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mehul.github.io/donation-dashboard",
+  "homepage": "https://meilluer.github.io/donation-dashboard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
